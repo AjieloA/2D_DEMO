@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Boss
+  - Ground
+  - AirWall
+  - Att
+  - PlayerBlood
+  - SnakeBlood
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - Player
+  - LandCollider
+  - Monster
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 9th
+    uniqueID: 299184201
+    locked: 0
+  - name: 8th
+    uniqueID: 2413043939
+    locked: 0
+  - name: 7th
+    uniqueID: 2302226699
+    locked: 0
+  - name: 6th
+    uniqueID: 4225557061
+    locked: 0
+  - name: 5th
+    uniqueID: 1530602637
+    locked: 0
+  - name: 4th
+    uniqueID: 4035967787
+    locked: 0
+  - name: 3th
+    uniqueID: 1512619801
+    locked: 0
+  - name: 2th
+    uniqueID: 446671851
+    locked: 0
+  - name: 1th
+    uniqueID: 3169420335
+    locked: 0
